@@ -13,13 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'I’M A FULL STACK DEVELOPER, TEAM LEAD, AND TECHNICAL PROJECT MANAGER.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm currently working as a full stack developer, managing a team,
+      mentoring developers,    and overseeing projects from a technical
+      standpoint. I have a passion for building scalable    applications and
+      fostering innovation in my team. Feel free to explore more details   
+      about my journey and the projects I've worked on.
     styles:
       self:
         height: auto
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
