@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
+    text: >-
       Hey, I’m MD Ashfaque Ahmad.
 
       I’m a full-stack developer and technical leader with a passion for coding,
@@ -24,9 +24,6 @@ sections:
       exploring new technologies, mentoring teams, or working on side projects.
       Outside of work, I enjoy catching up on tech trends and indulging in my
       love for cereals.
-
-      ==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
     media:
       type: ImageBlock
       url: /images/about.jpg
