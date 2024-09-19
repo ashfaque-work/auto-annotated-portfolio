@@ -229,6 +229,7 @@ sections:
         url: 'https://nodejs.org/en'
       - type: Label
         label: JavaScript
+        url: 'https://www.javascript.com/'
       - type: Label
         label: Swift
   - type: DividerSection
