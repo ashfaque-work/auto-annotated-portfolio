@@ -13,11 +13,27 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Hey, I’m MD Ashfaque Ahmad.
+
+      I’m a full-stack developer and technical leader with a passion for coding,
+      problem-solving, and mentoring teams. Currently, I'm managing technical
+      projects while working as a free agent. I've collaborated with
+      industry-leading companies and have a track record of delivering
+      high-quality solutions.
+
+      ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+      ### When I’m not deep into code, you’ll find me exploring new
+      technologies, mentoring teams, or working on side projects. Outside of
+      work, I enjoy catching up on tech trends and indulging in my love for
+      cereals.
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
