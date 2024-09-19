@@ -225,7 +225,7 @@ sections:
         label: PHP
         url: 'https://www.php.net'
       - type: Label
-        label: Pancakes
+        label: NodeJS
       - type: Label
         label: C++
       - type: Label
