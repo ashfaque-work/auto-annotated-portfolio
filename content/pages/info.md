@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: MYSQL
       - type: Label
         label: PHP
         url: 'https://www.php.net'
