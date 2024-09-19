@@ -233,6 +233,7 @@ sections:
         url: 'https://www.javascript.com/'
       - type: Label
         label: gRPC
+        url: 'https://grpc.io/'
   - type: DividerSection
     styles:
       self:
