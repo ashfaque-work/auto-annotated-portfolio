@@ -234,6 +234,9 @@ sections:
       - type: Label
         label: gRPC
         url: 'https://grpc.io/'
+      - type: Label
+        label: 'WordPress '
+        url: ''
   - type: DividerSection
     styles:
       self:
