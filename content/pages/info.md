@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Laravel
       - type: Label
         label: Pancakes
       - type: Label
