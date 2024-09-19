@@ -221,6 +221,7 @@ sections:
         label: React
       - type: Label
         label: MySQL
+        url: 'https://www.mysql.com/'
       - type: Label
         label: PHP
         url: 'https://www.php.net'
