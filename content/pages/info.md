@@ -301,7 +301,7 @@ sections:
         text: |+
           **2016-2020**
 
-          *   B.Tech in computer science at a [SVIET](https://www.sviet.ac.in/)
+          *   B.Tech in computer science at [SVIET](https://www.sviet.ac.in/)
 
           **2014-2016**
 
