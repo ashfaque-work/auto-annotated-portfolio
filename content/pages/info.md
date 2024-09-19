@@ -24,7 +24,7 @@ sections:
       LOVE FOR CEREALS.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG20231106132934.jpg
       altText: Hero image
     styles:
       self:
