@@ -213,6 +213,7 @@ sections:
     items:
       - type: Label
         label: Nest.Js
+        url: 'https://nestjs.com/'
       - type: Label
         label: React
       - type: Label
