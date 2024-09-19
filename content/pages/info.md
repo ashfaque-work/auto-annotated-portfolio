@@ -20,19 +20,12 @@ sections:
       problem-solving, and mentoring teams. Currently, I'm managing technical
       projects while working as a free agent. I've collaborated with
       industry-leading companies and have a track record of delivering
-      high-quality solutions.
+      high-quality solutions.When I’m not deep into code, you’ll find me
+      exploring new technologies, mentoring teams, or working on side projects.
+      Outside of work, I enjoy catching up on tech trends and indulging in my
+      love for cereals.
 
-      ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-      ### When I’m not deep into code, you’ll find me exploring new
-      technologies, mentoring teams, or working on side projects. Outside of
-      work, I enjoy catching up on tech trends and indulging in my love for
-      cereals.
-
-
-
-
+      -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     media:
       type: ImageBlock
