@@ -298,18 +298,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2016-2020**
 
-          * ba computer sciense at a semi fancy school
+          *   B.Tech in computer science at a [SVIET](https://www.sviet.ac.in/)
+
+          **2014-2016**
+
+          *   Highschool at Gandhi Inter School
 
           **2014**
 
-          * react certificate somewhere
+          *   School at St. Joseph's School
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
