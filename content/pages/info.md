@@ -169,7 +169,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/the_ashfaque/'
         styles:
           self:
             textAlign: left
