@@ -236,7 +236,7 @@ sections:
         url: 'https://grpc.io/'
       - type: Label
         label: 'WordPress '
-        url: ''
+        url: 'https://wordpress.org/download/'
   - type: DividerSection
     styles:
       self:
