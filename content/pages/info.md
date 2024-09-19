@@ -50,6 +50,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: 'HEY, I’M MD ASHFAQUE AHMAD.'
   - type: DividerSection
     styles:
       self:
