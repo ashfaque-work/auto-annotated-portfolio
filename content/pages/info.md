@@ -228,7 +228,7 @@ sections:
         label: NodeJS
         url: 'https://nodejs.org/en'
       - type: Label
-        label: Javascript
+        label: JavaScript
       - type: Label
         label: Swift
   - type: DividerSection
