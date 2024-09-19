@@ -215,15 +215,15 @@ sections:
         label: NestJS
         url: 'https://nestjs.com/'
       - type: Label
+        label: Laravel
+        url: 'https://laravel.com/'
+      - type: Label
         label: React
       - type: Label
         label: Microsoft Office
       - type: Label
         label: PHP
         url: 'https://www.php.net'
-      - type: Label
-        label: Laravel
-        url: 'https://laravel.com/'
       - type: Label
         label: Pancakes
       - type: Label
