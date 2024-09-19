@@ -222,6 +222,7 @@ sections:
         label: Next.js
       - type: Label
         label: Laravel
+        url: 'https://laravel.com/'
       - type: Label
         label: Pancakes
       - type: Label
