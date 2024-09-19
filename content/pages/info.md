@@ -13,17 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      Hey, I’m MD Ashfaque Ahmad.
+    text: >
+      HEY, I’M MD ASHFAQUE AHMAD.
 
-      I’m a full-stack developer and technical leader with a passion for coding,
-      problem-solving, and mentoring teams. Currently, I'm managing technical
-      projects while working as a free agent. I've collaborated with
-      industry-leading companies and have a track record of delivering
-      high-quality solutions. When I’m not deep into code, you’ll find me
-      exploring new technologies, mentoring teams, or working on side projects.
-      Outside of work, I enjoy catching up on tech trends and indulging in my
-      love for cereals.
+      I’M A FULL-STACK DEVELOPER AND TECHNICAL LEADER WITH A PASSION FOR CODING,
+      PROBLEM-SOLVING, AND MENTORING TEAMS. CURRENTLY, I’M MANAGING TECHNICAL
+      PROJECTS WHILE WORKING AS A FREE AGENT. I’VE COLLABORATED WITH
+      INDUSTRY-LEADING COMPANIES AND HAVE A TRACK RECORD OF DELIVERING
+      HIGH-QUALITY SOLUTIONS. WHEN I’M NOT DEEP INTO CODE, YOU’LL FIND ME
+      EXPLORING NEW TECHNOLOGIES, MENTORING TEAMS, OR WORKING ON SIDE PROJECTS.
+      OUTSIDE OF WORK, I ENJOY CATCHING UP ON TECH TRENDS AND INDULGING IN MY
+      LOVE FOR CEREALS. 
     media:
       type: ImageBlock
       url: /images/about.jpg
