@@ -220,7 +220,7 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: MYSQL
+        label: MySQL
       - type: Label
         label: PHP
         url: 'https://www.php.net'
