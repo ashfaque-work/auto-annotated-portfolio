@@ -220,7 +220,7 @@ sections:
         label: Microsoft Office
       - type: Label
         label: PHP
-        url: 'https://www.php.net/'
+        url: 'https://www.php.net'
       - type: Label
         label: Laravel
         url: 'https://laravel.com/'
