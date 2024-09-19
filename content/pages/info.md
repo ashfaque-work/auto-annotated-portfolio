@@ -238,7 +238,7 @@ sections:
         label: 'WordPress '
         url: 'https://wordpress.org/download/'
       - type: Label
-        label: mongoDB
+        label: MongoDB
         url: 'https://www.mongodb.com/'
   - type: DividerSection
     styles:
