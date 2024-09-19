@@ -275,26 +275,19 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **2022-Current**
 
-          * freelance @freelance.me
+          *   Full-stack Developer at [iB Arts](https://www.ibarts.co/)
 
-          **2018-2021**
+          **2021-2022**
 
-          * fullstack at this startup
+          *   Laravel-React Developer at Abdal Infotech
 
-          **2015**
+          **2021**
 
-          * senior front-end at this place
+          *   intern developer at a [Verzeo](https://learn.verzeo.in/)
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
