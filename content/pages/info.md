@@ -219,7 +219,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: PHP
       - type: Label
         label: Laravel
         url: 'https://laravel.com/'
