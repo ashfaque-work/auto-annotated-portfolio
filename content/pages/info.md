@@ -212,7 +212,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Nest.Js
+        label: Nest.JS
         url: 'https://nestjs.com/'
       - type: Label
         label: React
