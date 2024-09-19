@@ -232,7 +232,7 @@ sections:
         label: JavaScript
         url: 'https://www.javascript.com/'
       - type: Label
-        label: Swift
+        label: gRPC
   - type: DividerSection
     styles:
       self:
